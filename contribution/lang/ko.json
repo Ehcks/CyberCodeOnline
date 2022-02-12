@@ -629,7 +629,7 @@
  	 	 	 	"amount",
  	 	 	 	"levelName"
  	 	 	],
- 	 	 	"trans": "${amount} ${levelName} 경험치를 받았다",
+ 	 	 	"trans": "${amount} ${levelName} 경험치를 받았습니다",
  	 	 	"eng": "You received ${amount} ${levelName} experience points"
  	 	}
  	},
@@ -684,7 +684,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "누군가의 기억과 경험을 지닌 조각으로, 사용하면 ${levelName} 경험치를 얻을 수 있다. \r\n         *경험치 조각은 대화 내용이나 특정 정보가 담겨 있는 작은 데이터 카드를 말합니다. 조각 안에는 대부분 사이버코드 세계의 잡학지식이 들어 있지만, 일부 샤드에는 임무 수행에 필요한 핵심 자료가 담겨 있는 경우도 있습니다.",
+ 	 	 	 	"trans": "누군가의 기억과 경험을 지닌 조각으로, 사용하면 ${levelName} 경험치를 얻을 수 있습니다. \r\n         *경험치 조각은 대화 내용이나 특정 정보가 담겨 있는 작은 데이터 카드를 말합니다. 조각 안에는 대부분 사이버코드 세계의 잡학지식이 들어 있지만, 일부 샤드에는 임무 수행에 필요한 핵심 자료가 담겨 있는 경우도 있습니다.",
  	 	 	 	"eng": "A shard that contains someone's memory and experience. If used you may gain ${levelName} experience from this"
  	 	 	}
  	 	},
@@ -1722,7 +1722,7 @@
  	 	 	 	"eng": "Request in progress..."
  	 	 	},
  	 	 	"watchAdRefresh": {
- 	 	 	 	"trans": "퀘스트를 새로고침 하려면 광고 시청하세요",
+ 	 	 	 	"trans": "퀘스트를 새로고침 하려면 광고를 시청하세요",
  	 	 	 	"eng": "Watch an AD to refresh quest"
  	 	 	},
  	 	 	"rewards": {
@@ -3119,7 +3119,7 @@
  	 	 	 	"eng": "There is currently no public dungeon"
  	 	 	},
  	 	 	"showCanJoinOnly": {
- 	 	 	 	"trans": "참여 가능한 던전만 보여줍니다",
+ 	 	 	 	"trans": "참여 가능한 던전만 보여주기",
  	 	 	 	"eng": "Only show dungeons I can join"
  	 	 	}
  	 	},
@@ -3147,7 +3147,7 @@
  	 	 	 	"eng": "Crafting"
  	 	 	},
  	 	 	"onlyShowCraftable": {
- 	 	 	 	"trans": "제작할 수 없는 레시피를 숨깁니다",
+ 	 	 	 	"trans": "제작할 수 없는 레시피를 숨기기",
  	 	 	 	"eng": "Hide recipes that you can\\'t craft"
  	 	 	}
  	 	},
@@ -3247,7 +3247,7 @@
  	 	 	 	"eng": "dungeon"
  	 	 	},
  	 	 	"social": {
- 	 	 	 	"trans": "소셜기능",
+ 	 	 	 	"trans": "소셜 기능",
  	 	 	 	"eng": "social"
  	 	 	},
  	 	 	"keys": {
@@ -3551,7 +3551,7 @@
  	 	 	 	"eng": "Crit chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "공격 시 치명타가 발생할 확률",
+ 	 	 	 	"trans": "공격 시 치명타가 발생할 확률입니다",
  	 	 	 	"eng": "Chance of you executing a critical attack"
  	 	 	}
  	 	},
@@ -3607,7 +3607,7 @@
  	 	 	 	"eng": "Evade"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "적의 공격을 회피할 수 있는 확률",
+ 	 	 	 	"trans": "적의 공격을 회피할 수 있는 확률입니다",
  	 	 	 	"eng": "Chance of you dodging an enemies attack"
  	 	 	}
  	 	},
