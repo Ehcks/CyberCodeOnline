@@ -10,4 +10,4 @@
 ## Guildline
 1. Please dont make overly long lore
 2. Stay immersive and lore friendly
-3. The file format is Markdown, you may use editor such as https://stackedit.io/app# to help you edit the files
+3. The file format is Markdown, you may use editor such as https://stackedit.io/app# to help you edit the files.
